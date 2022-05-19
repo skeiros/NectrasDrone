@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application Maps 2</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="generar_ruta">GENERAR RUTA</string>
+    <string name="title_activity_maps_ruta_vuelo">Map</string>
+
+</resources>
